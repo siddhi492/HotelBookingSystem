@@ -26,3 +26,19 @@ Frontend:	JSP, HTML, CSS
 Database:	MySQL
 
 Build Tool:	Maven
+
+
+## 📸 Screenshots
+
+### 🛏️ Available Rooms Page
+![Available Rooms](screenshots/AvailableRooms.png)
+
+### 📅 Booking Page
+![Booking Page](screenshots/Booking.png)
+
+### 🗄️ MySQL Database Structure
+![Database](screenshots/Database.png)
+
+### 🏨 Hotels Listing Page
+![Hotels](screenshots/Hotels.png)
+
