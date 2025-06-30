@@ -1,17 +1,11 @@
 # 🏨 Hotel Booking System
-A full-stack hotel booking management web application built using Spring Boot, MySQL, and JSP/Servlets. This project allows users to manage hotel bookings, view available rooms, and perform CRUD operations on guests and bookings.
+A hotel booking management application built using Spring Boot and MySQL. This project allows users to manage hotel bookings, view available rooms, and perform CRUD operations on guests and bookings.
 
 # 🚀 Features
 
-🔐 User login and registration
-
-🏨 Book, view, update, or cancel hotel rooms
-
-📋 Admin panel to manage bookings and guests
+🏨 Book and view hotel rooms
 
 📊 Real-time room availability tracking
-
-✅ JSP-based frontend with Bootstrap styling
 
 🗃️ Data stored in MySQL
 
@@ -20,8 +14,6 @@ A full-stack hotel booking management web application built using Spring Boot, M
 Layer	Technology
 
 Backend:	Java + Spring Boot
-
-Frontend:	JSP, HTML, CSS
 
 Database:	MySQL
 
